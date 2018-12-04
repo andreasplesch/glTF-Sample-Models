@@ -1,6 +1,6 @@
 {
     "asset": {
-        "generator": "COLLADA2GLTF",
+        "generator": "COLLADA2GLTF, then manual",
         "version": "2.0"
     },
     "scene": 0,
