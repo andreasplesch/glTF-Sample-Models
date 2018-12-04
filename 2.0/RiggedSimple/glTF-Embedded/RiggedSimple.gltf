@@ -114,87 +114,11 @@
                     }
                 }
             ],
-            "_channels": [
-                {
-                    "sampler": 0,
-                    "target": {
-                        "node": 2,
-                        "path": "translation"
-                    }
-                },
-                {
-                    "sampler": 1,
-                    "target": {
-                        "node": 2,
-                        "path": "rotation"
-                    }
-                },
-                {
-                    "sampler": 2,
-                    "target": {
-                        "node": 2,
-                        "path": "scale"
-                    }
-                },
-                {
-                    "sampler": 3,
-                    "target": {
-                        "node": 3,
-                        "path": "translation"
-                    }
-                },
-                {
-                    "sampler": 4,
-                    "target": {
-                        "node": 3,
-                        "path": "rotation"
-                    }
-                },
-                {
-                    "sampler": 5,
-                    "target": {
-                        "node": 3,
-                        "path": "scale"
-                    }
-                }
-            ],
             "samplers": [
                 {
                     "input": 9,
                     "interpolation": "LINEAR",
                     "output": 11
-                }
-            ],
-            "_samplers": [
-                {
-                    "input": 5,
-                    "interpolation": "LINEAR",
-                    "output": 6
-                },
-                {
-                    "input": 5,
-                    "interpolation": "LINEAR",
-                    "output": 7
-                },
-                {
-                    "input": 5,
-                    "interpolation": "LINEAR",
-                    "output": 8
-                },
-                {
-                    "input": 9,
-                    "interpolation": "LINEAR",
-                    "output": 10
-                },
-                {
-                    "input": 9,
-                    "interpolation": "LINEAR",
-                    "output": 11
-                },
-                {
-                    "input": 9,
-                    "interpolation": "LINEAR",
-                    "output": 12
                 }
             ]
         }
