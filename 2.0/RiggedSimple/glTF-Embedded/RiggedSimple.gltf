@@ -54,11 +54,6 @@
                 -0.0,
                 -0.0,
                 -0.7094652056694031
-            ],
-            "_scale": [
-                1.0,
-                0.9999998807907105,
-                0.9999998807907105
             ]
         },
         {
@@ -66,17 +61,6 @@
                 0.0,
                 4.18717098236084,
                 0.0
-            ],
-            "_rotation": [
-                -0.0020521103870123626,
-                -9.947898149675895e-8,
-                -0.00029137087403796613,
-                -0.999997854232788
-            ],
-            "_scale": [
-                1.0,
-                1.0,
-                1.0000001192092896
             ]
         },
         {
@@ -363,55 +347,7 @@
             "byteLength": 128
         }
     ],
-    "_bufferViews": [
-        {
-            "buffer": 0,
-            "byteOffset": 5000,
-            "byteLength": 1128,
-            "target": 34963
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 4208,
-            "byteLength": 768,
-            "byteStride": 8,
-            "target": 34962
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 1904,
-            "byteLength": 2304,
-            "byteStride": 12,
-            "target": 34962
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 224,
-            "byteLength": 1536,
-            "byteStride": 16,
-            "target": 34962
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 4976,
-            "byteLength": 24
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 1760,
-            "byteLength": 144
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 128,
-            "byteLength": 96
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 0,
-            "byteLength": 128
-        }
-    ],
+    
     "buffers": [
         {
             "byteLength": 6128,
