@@ -1,6 +1,6 @@
 {
     "asset": {
-        "generator": "COLLADA2GLTF, then manual",
+        "generator": "COLLADA2GLTF, manual cleaning",
         "version": "2.0"
     },
     "scene": 0,
