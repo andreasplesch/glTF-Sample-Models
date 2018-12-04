@@ -107,7 +107,7 @@
         {
             "channels": [
                 {
-                    "sampler": 4,
+                    "sampler": 0,
                     "target": {
                         "node": 3,
                         "path": "rotation"
@@ -159,6 +159,13 @@
                 }
             ],
             "samplers": [
+                {
+                    "input": 9,
+                    "interpolation": "LINEAR",
+                    "output": 11
+                }
+            ],
+            "_samplers": [
                 {
                     "input": 5,
                     "interpolation": "LINEAR",
