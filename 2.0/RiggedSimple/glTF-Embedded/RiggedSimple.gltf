@@ -109,7 +109,7 @@
                 {
                     "sampler": 4,
                     "target": {
-                        "node": 3
+                        "node": 3,
                         "path": "rotation"
                     }
                 }
