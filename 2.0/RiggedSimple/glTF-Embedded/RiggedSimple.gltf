@@ -236,8 +236,7 @@
                 0.04166661947965622
             ],
             "type": "SCALAR"
-        },
-        
+        },        
         {
             "bufferView": 5,
             "byteOffset": 48,
@@ -256,8 +255,7 @@
                 -0.999997854232788
             ],
             "type": "VEC4"
-        },
-        
+        },        
         {
             "bufferView": 6,
             "byteOffset": 0,
@@ -301,8 +299,7 @@
             ],
             "type": "MAT4"
         }
-    ],
-    
+    ],    
     "bufferViews": [
         {
             "buffer": 0,
@@ -346,8 +343,7 @@
             "byteOffset": 0,
             "byteLength": 128
         }
-    ],
-    
+    ],    
     "buffers": [
         {
             "byteLength": 6128,
