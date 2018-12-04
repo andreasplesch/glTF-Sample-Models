@@ -116,28 +116,28 @@
             ],
             "_channels": [
                 {
-                    "_sampler": 0,
+                    "sampler": 0,
                     "target": {
                         "node": 2,
                         "path": "translation"
                     }
                 },
                 {
-                    "_sampler": 1,
+                    "sampler": 1,
                     "target": {
                         "node": 2,
                         "path": "rotation"
                     }
                 },
                 {
-                    "_sampler": 2,
+                    "sampler": 2,
                     "target": {
                         "node": 2,
                         "path": "scale"
                     }
                 },
                 {
-                    "_sampler": 3,
+                    "sampler": 3,
                     "target": {
                         "node": 3,
                         "path": "translation"
@@ -151,7 +151,7 @@
                     }
                 },
                 {
-                    "_sampler": 5,
+                    "sampler": 5,
                     "target": {
                         "node": 3,
                         "path": "scale"
