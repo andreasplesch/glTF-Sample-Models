@@ -107,28 +107,28 @@
         {
             "channels": [
                 {
-                    "sampler": 0,
+                    "_sampler": 0,
                     "target": {
                         "node": 2,
                         "path": "translation"
                     }
                 },
                 {
-                    "sampler": 1,
+                    "_sampler": 1,
                     "target": {
                         "node": 2,
                         "path": "rotation"
                     }
                 },
                 {
-                    "sampler": 2,
+                    "_sampler": 2,
                     "target": {
                         "node": 2,
                         "path": "scale"
                     }
                 },
                 {
-                    "sampler": 3,
+                    "_sampler": 3,
                     "target": {
                         "node": 3,
                         "path": "translation"
@@ -142,7 +142,7 @@
                     }
                 },
                 {
-                    "sampler": 5,
+                    "_sampler": 5,
                     "target": {
                         "node": 3,
                         "path": "scale"
