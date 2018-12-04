@@ -87,7 +87,7 @@
             "name": "Cylinder"
         }
     ],
-    materials": [
+    "materials": [
         {
             "pbrMetallicRoughness": {
                 "baseColorFactor": [
