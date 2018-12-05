@@ -13,12 +13,8 @@
     ],
     "nodes": [
         {
-            "_children": [
-                4,
-                1
-            ],
             "children": [
-                
+                4,
                 1
             ],
             "matrix": [
